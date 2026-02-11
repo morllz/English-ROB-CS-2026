@@ -30,11 +30,17 @@ comment:  Technical Terms for the course
 ### Bit / Byte
 ### boolean
 ### array
+**Das Array: A data structure that stores a fixed-size collection of elements of the same type in contiguous memory locations. It allows for fast access using an index.**
 ### integer
+**Die Ganzzahl: A primitive data type that represents whole numbers (positive, negative, or zero) without any fractional or decimal parts.**
 ### Hashmap
+**Die Hash-Tabelle: A data structure that maps "keys" to "values." It uses a hash function to compute an index, allowing for very fast data retrieval (e.g., looking up a phone number by a name).**
 ### logic gates
+**Das Logikgatter: The basic building blocks of digital circuits (hardware). They perform logical operations (like AND, OR, NOT) on binary inputs (0s and 1s) to produce a single binary output.**
 ### list
+**Die Liste: An abstract data type that represents an ordered sequence of values. Unlike an array, a list often has a dynamic size (it can grow or shrink easily).**
 ### artificial intelligence
+**Die Künstliche Intelligenz: The branch of computer science focused on creating systems capable of performing tasks that typically require human intelligence, such as recognizing speech, making decisions, or translating languages.**
 ### Robot
 *** A robot is a programmable machine that can sense its environment, process information, and perform physical actions autonomously or semi-autonomously to achieve specific tasks. ***
 ### Query
