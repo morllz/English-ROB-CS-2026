@@ -66,6 +66,19 @@ comment:  Technical Terms for the course
 ### wifi
 *** Wi-Fi is a wireless networking technology that allows devices to connect to local networks and the internet using radio waves. ***
 ### sensor
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **sensor (dt. Sensor)**
+>
+> Is a device which detects or measures a physical property and records it, indicates, or otherwise responds to it.
+<br>
+
+
+### precedence
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **precedence (dt. Vorrang)**
+>
+> Defines the rules for the order in which operators are evaluated in an expression, determining which parts are calculated first.
+<br>
 ### ADC (analog-to-digital converter)
 <!-- style="background-color: light-blue; border-style: solid;"-->
 > **Definition**
@@ -78,24 +91,44 @@ comment:  Technical Terms for the course
 >
 > (dt. Schattierer) Program that transforms data as it moves through the rendering pipeline. Graphical Processing Units (GPU) are designed to run shaders.
 ### debugging/ debugger
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **debugging/ debugger (dt. Entkäferer)**
+>
+> A debugger is a computerprogram that assists in the detection and correction of errors in code. The action debugging discribes the act of removing the errors ("bug's") manually.
+<br>
 ### laboratory
 <!-- style="background-color: light-blue; border-style: solid;"-->
 > **Definition**
 >
 > (dt. Laboratorium) Scientific facility that provides controlled conditions for research and experiments.
 ### Memory Elements
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **Memory Elements (dt. Speicherelemente)**
+>
+>A Memory Element is the smallest, most fundamental component of a digital system.
+<br>
 ### Queue
 <!-- style="background-color: light-blue; border-style: solid;"-->
 > **Definition**
 >
 > (dt. Schlange) Uses the first-in first-out principle. Tasks are processed in the order they arrive at the processor.
 ### Stack
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **Stack (dt. Stapel)**
+>
+>Stack memory is a specialized, high-speed, and automatic RAM region used for storing temporary data, such as local variables, function parameters, and return addresses.
+<br>
 ### (coding) environment
 <!-- style="background-color: light-blue; border-style: solid;"-->
 > **Definition**
 >
 > (dt. Programmierumgebung) Software to write programs (e.g. a text editor). An integrated development environment (IDE) also provides integrated tools, like debuggers, to improve productivity.
 ### engine 
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **engine (dt. Motor)**
+>
+>A data compute engine is a specialized framework, system, or platform designed to efficiently process and analyze large volumes of data.
+<br>
 ### storage
 ### libraries 
 *** collection of pre written, reusable code e.g functions *** 
