@@ -106,7 +106,9 @@ comment:  Technical Terms for the course
 ### copilot
 ### frequency
 ### version control
-### heap
+### heap 
+** The heap is a region in the memory used for dynamic memory allocation, memory 
+has to be allocated/freed manualy **
 ### stack overflow
 ### server
 ### ull Stack
