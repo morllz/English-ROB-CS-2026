@@ -37,17 +37,29 @@ comment:  Technical Terms for the course
 ### list
 ### artificial intelligence
 ### Robot
+*** A robot is a programmable machine that can sense its environment, process information, and perform physical actions autonomously or semi-autonomously to achieve specific tasks. ***
 ### Query
+*** A query is a request for information or data from a system, database, or program. ***
 ### algorithm
+*** An algorithm is a step-by-step procedure that takes input, processes it according to defined rules, and produces output. ***
 ### (Binary-) Tree 
+*** A binary tree is a tree data structure composed of nodes, where each node contains a value and references to at most two child nodes, forming a parent–child hierarchy. ***
 ### Compiler
+*** A compiler is a program that translates source code written in a high-level programming language into machine code or another low-level language that a computer can execute. ***
 ### Interpreter
-### voltage - Spannung
-### optimisation
+*** An interpreter is a program that executes source code directly by translating and running it line by line, without producing a separate machine code file. ***
+### voltage
+*** Voltage is the electrical potential difference between two points, which causes electric charge to flow in a circuit. ***
+### optimization
+*** Optimization involves selecting the most efficient parameters, resources, or actions to improve performance, cost, speed, or accuracy under defined constraints. ***
 ### remote control
+*** A remote control is a system or device that allows a machine or robot to be operated from a distance using wireless or wired communication. ***
 ### flip-flop
+*** A flip-flop is a basic digital electronic circuit that stores one bit of data and changes its state in response to a clock or control signal. ***
 ### bluetooth
+*** Bluetooth is a short-range wireless communication technology used to exchange data between devices over low power radio waves. ***
 ### wifi
+*** Wi-Fi is a wireless networking technology that allows devices to connect to local networks and the internet using radio waves. ***
 ### sensor
 <!-- style="background-color: light-blue; border-style: solid;"-->
 > **sensor (dt. Sensor)**
