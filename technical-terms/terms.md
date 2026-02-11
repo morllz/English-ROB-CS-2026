@@ -61,14 +61,34 @@ comment:  Technical Terms for the course
 *** Wi-Fi is a wireless networking technology that allows devices to connect to local networks and the internet using radio waves. ***
 ### sensor
 ### ADC (analog-to-digital converter)
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **Definition**
+>
+> (dt. Analog-zu-Digital Konvertierer) An Analog-to-digital converter (ADC) is a system that converts analog signals (like from a joystick) to a digital signal. It creates a discrete-time and discrete-amplitude digital signal from a continuous-time and continuous-amplitude analog signal.
 ### preferences
 ### shader 
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **Definition**
+>
+> (dt. Schattierer) Program that transforms data as it moves through the rendering pipeline. Graphical Processing Units (GPU) are designed to run shaders.
 ### debugging/ debugger
 ### laboratory
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **Definition**
+>
+> (dt. Laboratorium) Scientific facility that provides controlled conditions for research and experiments.
 ### Memory Elements
 ### Queue
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **Definition**
+>
+> (dt. Schlange) Uses the first-in first-out principle. Tasks are processed in the order they arrive at the processor.
 ### Stack
 ### (coding) environment
+<!-- style="background-color: light-blue; border-style: solid;"-->
+> **Definition**
+>
+> (dt. Programmierumgebung) Software to write programs (e.g. a text editor). An integrated development environment (IDE) also provides integrated tools, like debuggers, to improve productivity.
 ### engine 
 ### storage
 ### libraries  *** collection of pre written, reusable code e.g functions *** <br> 
