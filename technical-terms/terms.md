@@ -17,13 +17,9 @@ comment:  Technical Terms for the course
 
 ## Example Category
 ### Template
-<!-- style="background-color: light-blue; border-style: solid;"-->
-> **Definition**
->
-> your definition here
+*** your definition ***
 <br>
 !?[name of your video here](link of your video here)
-
 
 ### computer sience - informatik
 ### O(n) ("Big o of n") Notation
@@ -72,7 +68,7 @@ comment:  Technical Terms for the course
 ### multimedia
 ### searching algorithms
 ### operating system
-### internet
+### internet                  (world wide web , das Internet)
 ### microcontroller
 ### CPU
 ### processor
