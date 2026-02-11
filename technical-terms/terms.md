@@ -97,12 +97,24 @@ comment:  Technical Terms for the course
 > (dt. Programmierumgebung) Software to write programs (e.g. a text editor). An integrated development environment (IDE) also provides integrated tools, like debuggers, to improve productivity.
 ### engine 
 ### storage
-### libraries  *** collection of pre written, reusable code e.g functions *** <br> 
-### dictionary *** data structure that saves via key:value pairs *** <br>
-### ALU: Arithmetic Logic Unit  *** part of a processor that is taskt with arithmetic operations e.g addition *** <br>
-### intelligence *** general term for the ability of an individual to adapt to its surroundings *** <br>
-### pointer *** A pointer is a variable that stores the memory address of another value instead of the value itself *** <br> 
+### libraries 
+*** collection of pre written, reusable code e.g functions *** 
+<br> 
+### dictionary 
+*** data structure that saves via key:value pairs *** 
+<br>
+### ALU: Arithmetic Logic Unit  
+*** part of a processor that is taskt with arithmetic operations e.g addition *** 
+<br>
+### intelligence 
+*** general term for the ability of an individual to adapt to its surroundings *** 
+<br>
+### pointer 
+*** A pointer is a variable that stores the memory address of another value instead of the value itself *** 
+<br> 
 ### conversion
+*** a conversation is an exchange of messages between two systems, devices, or processes to coordinate actions or share information***
+<br> 
 ### radio
 *** Radio is sound communication by radio waves, usually through the transmission of music, news, and other types of programs from single broadcast stations to multitudes of individual listeners equipped with radio receivers ***
 <br>
