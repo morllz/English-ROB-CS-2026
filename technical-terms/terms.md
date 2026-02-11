@@ -24,7 +24,6 @@ comment:  Technical Terms for the course
 <br>
 !?[name of your video here](link of your video here)
 
-
 ### computer sience - informatik
 ### O(n) ("Big o of n") Notation
 ### CAD (computer aided design)
@@ -105,11 +104,11 @@ comment:  Technical Terms for the course
 >A data compute engine is a specialized framework, system, or platform designed to efficiently process and analyze large volumes of data.
 <br>
 ### storage
-### libraries
-### dictionary
-### ALU: Arithmetic Logic Unit
-### intelligence
-### pointer
+### libraries  *** collection of pre written, reusable code e.g functions *** <br> 
+### dictionary *** data structure that saves via key:value pairs *** <br>
+### ALU: Arithmetic Logic Unit  *** part of a processor that is taskt with arithmetic operations e.g addition *** <br>
+### intelligence *** general term for the ability of an individual to adapt to its surroundings *** <br>
+### pointer *** A pointer is a variable that stores the memory address of another value instead of the value itself *** <br> 
 ### conversion
 ### adio
 ### preprocessor
