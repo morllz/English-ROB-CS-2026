@@ -83,12 +83,24 @@ comment:  Technical Terms for the course
 ### intelligence *** general term for the ability of an individual to adapt to its surroundings *** <br>
 ### pointer *** A pointer is a variable that stores the memory address of another value instead of the value itself *** <br> 
 ### conversion
-### adio
+### radio
+*** Radio is sound communication by radio waves, usually through the transmission of music, news, and other types of programs from single broadcast stations to multitudes of individual listeners equipped with radio receivers ***
+<br>
 ### preprocessor
+*** ya macro processor that is used automatically by the C compiler to transform your program before actual compilation ***
+<br>
 ### objects
+*** an entity semantic that has state, behavior, and identity ***
+<br>
+!?[Make Properties Required With C# 11 and .NET 7](https://www.youtube.com/shorts/JIqsYQ8zKbE)
 ### multimedia
+*** the integration of various forms of media, such as text, graphics, audio, video, and animation, in a digital format ***
+<br>
+!?[What is Multimedia?](https://www.youtube.com/watch?v=WVHkR3w47pY)
 ### searching algorithms
+*** a method used to systematically explore alternatives in problem-solving, modeled as a search in a problem-space graph where nodes represent problem states and edges represent operators that change those states ***
 ### operating system
+*** a software that acts as an interface between computer hardware components and the user ***
 ### internet                  (world wide web , das Internet)
 ### microcontroller
 ### CPU
