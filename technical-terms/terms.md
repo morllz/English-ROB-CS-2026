@@ -15,6 +15,7 @@ comment:  Technical Terms for the course
 
 # Technical Terms
 
+## Example Category
 ### Template
 *** your definition ***
 <br>
