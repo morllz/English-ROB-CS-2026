@@ -125,10 +125,15 @@ comment:  Technical Terms for the course
 ### microcontroller
 ### CPU
 ### processor
-### loop
+is the central processing unit of any computer / digital device
+### loops
+are control structures repeating line command(s)
 ### datatype
+structure, that defines the way a stream of  0s and 1s are read by the computer
 ### cache
+temporal buffer storage, which provides access to background media
 ### Storage device
+Hardware component for storing data for an unspecified amount of time
 ### copilot
 ### frequency
 ### version control
